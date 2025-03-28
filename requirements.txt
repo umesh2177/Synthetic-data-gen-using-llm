@@ -1,0 +1,10 @@
+pandas
+streamlit
+groq
+beautifulsoup4
+python-dotenv
+faker
+phidata
+google-cloud-firestore
+google-auth-oauthlib
+anthropic
